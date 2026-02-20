@@ -2,6 +2,8 @@
 In today’s fast-paced world, people seek more information in less time. We have observed in most news sources that only a small portion of the information is actual news while the rest is background information. This diminishes the news listening experience. To tackle this, we proposed JhattaSamachaar: a personalized news summarizer.
 
 ## Project Organization
+
+```
 ├── LICENSE            <- Open-source license if one is chosen
 ├── Makefile           <- Makefile with convenience commands like `make data` or `make train`
 ├── README.md          <- The top-level README for developers using this project.
@@ -48,3 +50,8 @@ In today’s fast-paced world, people seek more information in less time. We hav
     │   └── train.py            <- Code to train models
     │
     └── plots.py                <- Code to create visualizations
+```
+
+--------
+
+       <- Code to create visualizations
