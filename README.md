@@ -54,4 +54,9 @@ In today’s fast-paced world, people seek more information in less time. We hav
 
 --------
 
-       <- Code to create visualizations
+## Developed by
+This product was developed as an academic project in defense of the Applied data science and AIML course offered as an elective course by Department of Electronics and Computer engineering, Pulchowk Campus in collaboration with **Samsung Innnovation Campus**. I alongside my two fellows were engaged in this project with the following roles:
+
+- Frontend: [Amrit Sharma](https://github.com/amritsharma01/jhattasamachaar)
+- Backend: [Darpan Kattel](https://github.com/darpankattel/jhatta-samachar)
+- ML: Kripesh Nihure
